@@ -1,4 +1,4 @@
-Eduarda Soares 👋
+## Eduarda Soares 👋
 
 
 - 🔭 Estudante de Ciências Da Computação 
