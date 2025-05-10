@@ -1,7 +1,7 @@
 ## Oii!! Meu nome é Eduarda Soares 👋
 
 
-- 🔭 Eu sou estudante de Ciências Da Computação 
+- 🔭 Estudante de Ciências Da Computação 
 - 📊 Data Science
 - 💬 Contate-me no email: dudasoaresdepaiva@gmail.com
 
