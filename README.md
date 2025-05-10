@@ -4,7 +4,6 @@
 - 🔭 Eu sou estudante de Ciências Da Computação 
 - 📊 Data Science
 - 💬 Contate-me no email: dudasoaresdepaiva@gmail.com
-- 😄 Pronouns: Sher/her
 
 <div style="display: inline_block"><br>
   <img align="center" alt="duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
